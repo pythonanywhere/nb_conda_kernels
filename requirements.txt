@@ -1,6 +1,5 @@
 notebook
 jupyter_client
-r-irkernel
 requests
 flake8
 psutil
