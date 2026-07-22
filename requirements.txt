@@ -6,3 +6,4 @@ psutil
 pytest
 pytest-cov
 mock
+mistune>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
